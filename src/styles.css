@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.OuterDiv{
+    
+    padding: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.82);
+}
+.form-control{
+    padding: 0.75rem !important;
+    border:1px solid black !important;
+}
+.row{
+    padding-top: 10px;
+}
